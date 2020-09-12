@@ -2,13 +2,41 @@ body {
     background: #CB6CE6;
 }
 
+.homeDiv {
+    margin-top: 10rem;
+}
+
 .subtitle {
     margin-top: 0;
+    text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: 2rem;
     color: #FFFD47;
 }
 
 .arrow {
+    font-size: 10rem;
+    text-shadow: 1px -1.5px #FF66C4,
+                3px 3px black,
+                4px 4px black,
+                5px 5px black,
+                6px 6px black,
+                7px 7px black,
+                8px 8px black,
+                9px 9px black,
+                10px 10px black;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 5px;
+    -webkit-text-stroke-color: black;
+}
+
+.enter {
+    color: white;
+    font-family: 'Nova Square', cursive;
+    font-size: 1.25rem;
+    text-decoration: none;
+}
+
+.enter:hover {
     font-size: 3rem;
 }
