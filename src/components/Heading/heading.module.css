@@ -1,6 +1,31 @@
 .heading {
-    color:#FFFD47;
     font-family: "Shrikhand", cursive;
+    font-size: 4rem;
     font-weight: 200;
-    letter-spacing: 1px;
+    margin-top: 5rem;
+    margin-bottom: 0;
+    /* letter-spacing: .5px; */
+    text-shadow: 1px -1.5px #FFFD47;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #FF32AF;
 }
+
+/* .heading {
+    font-size: 4rem;
+    text-align: center;
+    height:90vh;
+    line-height: 90vh;
+    color: #fcedd8;
+    font-family: "Shrikhand", cursive;
+    font-weight: 700;
+    text-shadow: 5px 5px 0px #eb452b, 
+                10px 10px 0px #efa032, 
+                15px 15px 0px #46b59b, 
+                20px 20px 0px #017e7f, 
+                25px 25px 0px #052939, 
+                30px 30px 0px #c11a2b, 
+                35px 35px 0px #c11a2b, 
+                40px 40px 0px #c11a2b, 
+                45px 45px 0px #c11a2b;
+} */
