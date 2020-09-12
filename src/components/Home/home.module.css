@@ -1,3 +1,14 @@
 body {
-    background: pink;
+    background: #CB6CE6;
+}
+
+.subtitle {
+    margin-top: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+    color: #FFFD47;
+}
+
+.arrow {
+    font-size: 3rem;
 }
