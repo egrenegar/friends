@@ -1,9 +1,10 @@
 body {
     background: #CB6CE6;
+    height: 100vh;
 }
 
-.homeDiv {
-    margin-top: 10rem;
+.headingDiv {
+    padding-top: 6rem;
 }
 
 .subtitle {
@@ -39,4 +40,5 @@ body {
 
 .enter:hover {
     font-size: 3rem;
+    color: white;
 }
