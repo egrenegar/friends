@@ -2,6 +2,7 @@
     font-family: "Shrikhand", cursive;
     font-size: 4rem;
     font-weight: 200;
+    padding-top: 3rem;
     margin-bottom: 0;
     /* letter-spacing: .5px; */
     text-shadow: 1px -1.5px #FFFD47;
@@ -10,7 +11,7 @@
     -webkit-text-stroke-color: #FF32AF;
 }
 
-@media (max-width: 414px) {
+@media (max-width: 500px) {
     .heading {
         font-size: 3rem;
         line-height: 3.5rem;

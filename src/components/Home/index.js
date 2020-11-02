@@ -7,8 +7,7 @@ export default function Home() {
     return (
         <Container className={styles.homeDiv}>
             <Columns className='is-centered'>
-                <Columns.Column className={styles.headingDiv}>
-                    <Heading text='dedicated to the ones i &lt;3'/>
+                <Columns.Column>
                     <p className={styles.subtitle}>y'all rule.</p>
                 </Columns.Column>
             </Columns>
